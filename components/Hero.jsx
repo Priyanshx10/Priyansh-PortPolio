@@ -36,7 +36,7 @@ const Hero = () => {
           transition={{ duration: 0.8, delay: 1.1 }}
         >
           <a href="#contact" className={styles.button}>Get in touch</a>
-          <a href="/path-to-your-cv.pdf" download className={`${styles.button} ${styles.downloadButton}`}>
+          <a href="/assets/profile.pdf" download className={`${styles.button} ${styles.downloadButton}`}>
             <FaDownload className={styles.downloadIcon} />
             Download CV
           </a>
