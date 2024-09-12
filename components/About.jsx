@@ -49,7 +49,7 @@ const About = () => {
         />
       </motion.div>
       <motion.p className={styles.paragraph} variants={itemVariants}>
-        Hello, I&apos;m <span className={styles.highlight}>Priyansh Yadav</span>, a driven and results-oriented <span className={styles.highlight}>frontend developer</span> with over 2 year of experience in creating engaging and user-friendly web experiences. 
+        Hello, I&apos;m <span className={styles.highlight}>Priyansh Yadav</span>, a driven and results-oriented <span className={styles.highlight}>frontend developer</span> with over 4 year of experience in creating engaging and user-friendly web experiences. 
         With a BTech degree in Computer Science and Engineering, I have a solid foundation in web technologies including <span className={styles.highlight}>HTML, CSS, and JavaScript</span>, and I&apos;m expanding my expertise in <span className={styles.highlight}>React</span> and <span className={styles.highlight}>Next.js</span>.
       </motion.p>
       <motion.p className={styles.paragraph} variants={itemVariants}>
